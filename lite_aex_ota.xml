@@ -2,9 +2,8 @@
 <ROM>
   <RomName>HardogenOS</RomName>
   <VersionName>OB7_hydrogen_mod_1.0</VersionName>
-  <VersionNumber type="integer">20200118</VersionNumber>
-  <DirectUrl>https://doc-0s-c4-docs.googleusercontent.com/docs/securesc/5p9t89pt60qn9e90orh6gq62fk9bmjvr/o4bao9og3ihra0i82mglreklid74no76/1579370400000/03978898667754516784/03978898667754516784/1Etax550tmdBpnMQnBRIxHvd0z-WxRe3X?e=download&authuser=0</DirectUrl>
-  <HttpUrl>https://doc-0s-c4-docs.googleusercontent.com/docs/securesc/5p9t89pt60qn9e90orh6gq62fk9bmjvr/o4bao9og3ihra0i82mglreklid74no76/1579370400000/03978898667754516784/03978898667754516784/1Etax550tmdBpnMQnBRIxHvd0z-WxRe3X?e=download&authuser=0</HttpUrl>
+  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17/lite_OTA_AospExtended-v4.2-kenzo-20170515-1641-UNOFFICIAL.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17/lite_OTA_AospExtended-v4.2-kenzo-20170515-1641-UNOFFICIAL.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>10</Android>
   <CheckMD5>C8B71983CEFAE931CC8309DE7BF30B8C</CheckMD5>
   <FileSize type="integer">422264073</FileSize>
