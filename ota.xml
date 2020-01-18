@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>HydrogenOS</RomName> <!-- Название прошивки -->
-  <VersionName>Open_HARDGEYNER_Beta_7</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
-  <VersionNumber type="integer">20200118</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://mirrors.lolinet.com/firmware/gsi/HydrogenOS/HydrogenOS-AB-9-20190614-ErfanGSI.img.7z</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://mirrors.lolinet.com/firmware/gsi/HydrogenOS/HydrogenOS-AB-9-20190614-ErfanGSI.img.7z</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
-  <Android>10</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
-  <CheckMD5>B9348A979F5D6F495D2BC9442F81B1F7</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">1958060886</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
-  <Developer>HADGEYNER</Developer> <!-- Ник, имя разработчика'ов -->
+  <RomName>HydrogenOS</RomName> 
+  <VersionName>Open_HARDGEYNER_Beta_7</VersionName> 
+  <VersionNumber type="integer">20200118</VersionNumber> 
+  <DirectUrl>https://mirrors.lolinet.com/firmware/gsi/HydrogenOS/HydrogenOS-AB-9-20190614-ErfanGSI.img.7z</DirectUrl> 
+  <HttpUrl>https://mirrors.lolinet.com/firmware/gsi/HydrogenOS/HydrogenOS-AB-9-20190614-ErfanGSI.img.7z</HttpUrl>
+  <Android>10</Android> 
+  <CheckMD5>B9348A979F5D6F495D2BC9442F81B1F7</CheckMD5> 
+  <FileSize type="integer">1958060886</FileSize> 
+  <Developer>HADGEYNER</Developer> 
   <AddonCount>1</AddonCount>
   <AddonCount>2</AddonCount>
   <AddonCount>3</AddonCount>
@@ -19,7 +19,7 @@
   <AddonCount>8</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Nervnyi1990/lite-aex-ota/master/addons.xml</AddonsURL>
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
-  <DonateURL>https://money.yandex.ru/to/410012966283463</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
+  <DonateURL>https://money.yandex.ru/to/410012966283463</DonateURL> 
   <Changelog>
   ** Port version 1.0.1
     
@@ -55,5 +55,5 @@
         
     Fixed graphic themes
     
-  </Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
+  </Changelog> 
 </ROM>
