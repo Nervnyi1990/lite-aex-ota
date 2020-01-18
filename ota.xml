@@ -22,22 +22,14 @@
   <DonateURL>https://money.yandex.ru/to/410012966283463</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
   <Changelog>
   ** Port version 1.0.1
-    
-    *  Сконвертировал Требл прошивку
-    
-       Converted Treble rom
-    
-    *  Портировал Требл прошивку
-    
-       Ported Treble rom
-    
-    *  Добавлен Русский перевод (около 15000 строк) 
-    
-       Russian translation added (about 15,000 lines)
-    
-    *  Починил звук 
-    
-       Sound fix
+  *  Сконвертировал Требл прошивку
+     Converted Treble rom
+  *  Портировал Требл прошивку
+     Ported Treble rom
+  *  Добавлен Русский перевод (около 15000 строк) 
+     Russian translation added (about 15,000 lines)
+  *  Починил звук 
+     Sound fix
     
   </Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
 </ROM>
