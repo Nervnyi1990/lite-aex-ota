@@ -3,8 +3,8 @@
   <RomName>HardogenOS</RomName>
   <VersionName>OB7_hydrogen_mod_1.0</VersionName>
   <VersionNumber type="integer">20200122</VersionNumber>
-  <DirectUrl>https://mirrors.c0urier.net/android/teamhorizon/N/Official/jason/XenonHD-180417-Official-jason.zip</DirectUrl>
-  <HttpUrl>https://mirrors.c0urier.net/android/teamhorizon/N/Official/jason/XenonHD-180417-Official-jason.zip</HttpUrl>
+  <DirectUrl>http://mirrors.c0urier.net/android/teamhorizon/N/Official/jason/XenonHD-180417-Official-jason.zip</DirectUrl>
+  <HttpUrl>http://mirrors.c0urier.net/android/teamhorizon/N/Official/jason/XenonHD-180417-Official-jason.zip</HttpUrl>
   <Android>10</Android>
   <CheckMD5>C8B71983CEFAE931CC8309DE7BF30B8C</CheckMD5>
   <FileSize type="integer">422264073</FileSize>
