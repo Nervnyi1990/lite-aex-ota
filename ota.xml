@@ -3,8 +3,8 @@
   <RomName>HydrogenOS</RomName> <!-- Название прошивки -->
   <VersionName>Open_HARDGEYNER_Beta_7</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20200118</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17/lite_OTA_AospExtended-v4.2-kenzo-20170515-1641-UNOFFICIAL.zip</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/16.05.17/lite_OTA_AospExtended-v4.2-kenzo-20170515-1641-UNOFFICIAL.zip</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>https://doc-08-c4-docs.googleusercontent.com/docs/securesc/5p9t89pt60qn9e90orh6gq62fk9bmjvr/utbr6i64rk4crnt66rbegugo2cstsn7g/1579384800000/03978898667754516784/03978898667754516784/0B30idAUE1U-URGF3N3FXSVlmVjQ?e=download&authuser=0&nonce=ipl0askbb0o8i&user=03978898667754516784&hash=70mo2nupqi94b0b2j4pd6u7eqe82tv1d</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://doc-08-c4-docs.googleusercontent.com/docs/securesc/5p9t89pt60qn9e90orh6gq62fk9bmjvr/utbr6i64rk4crnt66rbegugo2cstsn7g/1579384800000/03978898667754516784/03978898667754516784/0B30idAUE1U-URGF3N3FXSVlmVjQ?e=download&authuser=0&nonce=ipl0askbb0o8i&user=03978898667754516784&hash=70mo2nupqi94b0b2j4pd6u7eqe82tv1d</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>10</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>B9348A979F5D6F495D2BC9442F81B1F7</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">1958060886</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
