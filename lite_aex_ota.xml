@@ -2,7 +2,7 @@
 <ROM>
   <RomName>HardogenOS</RomName>
   <VersionName>OB7_hydrogen_mod_1.0</VersionName>
-  <VersionNumber type="integer">20200120</VersionNumber>
+  <VersionNumber type="integer">20200122</VersionNumber>
   <DirectUrl>https://mirrors.c0urier.net/android/teamhorizon/N/Official/jason/XenonHD-180417-Official-jason.zip</DirectUrl>
   <HttpUrl>https://mirrors.c0urier.net/android/teamhorizon/N/Official/jason/XenonHD-180417-Official-jason.zip</HttpUrl>
   <Android>10</Android>
