@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>AOSPExtended_4.2</RomName>
-  <VersionName>lite_aex_mod_1.0.5-1</VersionName>
-  <VersionNumber type="integer">20170525</VersionNumber>
-  <DirectUrl>http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/1.0.5-1.zip</DirectUrl>
-  <HttpUrl>http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/1.0.5-1.zip</HttpUrl>
-  <Android>7.1.2</Android>
+  <RomName>HardogenOS</RomName>
+  <VersionName>OB7_hydrogen_mod_1.0</VersionName>
+  <VersionNumber type="integer">20200120</VersionNumber>
+  <DirectUrl>https://github-production-release-asset-2e65be.s3.amazonaws.com/97080121/6ed41e80-3a3e-11ea-98da-55e18fdbacbe?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200118T190429Z&X-Amz-Expires=300&X-Amz-Signature=cfc058803809461dfe45245694552e4646703d67eb9e901e8af50bf1403e71de&X-Amz-SignedHeaders=host&actor_id=18235565&response-content-disposition=attachment%3B%20filename%3Dpayload_dumper-win64.zip&response-content-type=application%2Foctet-stream</DirectUrl>
+  <HttpUrl>https://github-production-release-asset-2e65be.s3.amazonaws.com/97080121/6ed41e80-3a3e-11ea-98da-55e18fdbacbe?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200118T190429Z&X-Amz-Expires=300&X-Amz-Signature=cfc058803809461dfe45245694552e4646703d67eb9e901e8af50bf1403e71de&X-Amz-SignedHeaders=host&actor_id=18235565&response-content-disposition=attachment%3B%20filename%3Dpayload_dumper-win64.zip&response-content-type=application%2Foctet-stream</HttpUrl>
+  <Android>10</Android>
   <CheckMD5>C8B71983CEFAE931CC8309DE7BF30B8C</CheckMD5>
   <FileSize type="integer">422264073</FileSize>
-  <Developer>O_dinochka</Developer>
+  <Developer>HARDGEYNER</Developer>
   <AddonCount>1</AddonCount>
   <AddonCount>2</AddonCount>
   <AddonCount>3</AddonCount>
