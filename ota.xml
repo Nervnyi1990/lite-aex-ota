@@ -9,6 +9,14 @@
   <CheckMD5>B9348A979F5D6F495D2BC9442F81B1F7</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">1958060886</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>HADGEYNER</Developer> <!-- Ник, имя разработчика'ов -->
+  <AddonCount>1</AddonCount>
+  <AddonCount>2</AddonCount>
+  <AddonCount>3</AddonCount>
+  <AddonCount>4</AddonCount>
+  <AddonCount>5</AddonCount>
+  <AddonCount>6</AddonCount>
+  <AddonCount>7</AddonCount>
+  <AddonCount>8</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Nervnyi1990/lite-aex-ota/master/addons.xml</AddonsURL>
   <WebsiteURL>https://vk.com/i_feel_art</WebsiteURL>
   <DonateURL>https://money.yandex.ru/to/410012966283463</DonateURL> <!-- Ссылка для установки реквезитов для пожертвований -->
