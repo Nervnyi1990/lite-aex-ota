@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>HydrogenOS</RomName> 
-  <VersionName>Open_HARDGEYNER_Beta_7</VersionName> 
+  <VersionName>OB7_HydrogenOS_hardport1.0.7</VersionName> 
   <VersionNumber type="integer">20200118</VersionNumber> 
   <DirectUrl>https://master.dl.sourceforge.net/project/lite-aex-mod/LiteModAEX/lite_mod_1.0.1.zip</DirectUrl> 
   <HttpUrl>https://master.dl.sourceforge.net/project/lite-aex-mod/LiteModAEX/lite_mod_1.0.1.zip</HttpUrl>
