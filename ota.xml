@@ -3,8 +3,8 @@
   <RomName>HydrogenOS</RomName> 
   <VersionName>Open_HARDGEYNER_Beta_7</VersionName> 
   <VersionNumber type="integer">20200118</VersionNumber> 
-  <DirectUrl>https://mirrors.lolinet.com/firmware/gsi/HydrogenOS/HydrogenOS-AB-9-20190614-ErfanGSI.img.7z</DirectUrl> 
-  <HttpUrl>https://mirrors.lolinet.com/firmware/gsi/HydrogenOS/HydrogenOS-AB-9-20190614-ErfanGSI.img.7z</HttpUrl>
+  <DirectUrl>https://master.dl.sourceforge.net/project/lite-aex-mod/LiteModAEX/lite_mod_1.0.1.zip</DirectUrl> 
+  <HttpUrl>https://master.dl.sourceforge.net/project/lite-aex-mod/LiteModAEX/lite_mod_1.0.1.zip</HttpUrl>
   <Android>10</Android> 
   <CheckMD5>B9348A979F5D6F495D2BC9442F81B1F7</CheckMD5> 
   <FileSize type="integer">1958060886</FileSize> 
