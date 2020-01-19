@@ -3,8 +3,8 @@
   <RomName>HydrogenOS</RomName> 
   <VersionName>OB7_HydrogenOS_hardport1.0.7</VersionName> 
   <VersionNumber type="integer">20200118</VersionNumber> 
-  <DirectUrl>https://master.dl.sourceforge.net/project/lite-aex-mod/LiteModAEX/lite_mod_1.0.1.zip</DirectUrl> 
-  <HttpUrl>https://master.dl.sourceforge.net/project/lite-aex-mod/LiteModAEX/lite_mod_1.0.1.zip</HttpUrl>
+  <DirectUrl>https://github-production-release-asset-2e65be.s3.amazonaws.com/91174503/05d6c000-3aab-11ea-889d-5531977a17d2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200119T080459Z&X-Amz-Expires=300&X-Amz-Signature=22040dc7bf342d8069d6bf2c2bd8acadaced534fdb3b04addbea0f271c19a334&X-Amz-SignedHeaders=host&actor_id=18235565&response-content-disposition=attachment%3B%20filename%3DHydrogenOB7_19.01.20.zip&response-content-type=application%2Foctet-stream</DirectUrl> 
+  <HttpUrl>https:/https://github-production-release-asset-2e65be.s3.amazonaws.com/91174503/05d6c000-3aab-11ea-889d-5531977a17d2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200119T080459Z&X-Amz-Expires=300&X-Amz-Signature=22040dc7bf342d8069d6bf2c2bd8acadaced534fdb3b04addbea0f271c19a334&X-Amz-SignedHeaders=host&actor_id=18235565&response-content-disposition=attachment%3B%20filename%3DHydrogenOB7_19.01.20.zip&response-content-type=application%2Foctet-stream</HttpUrl>
   <Android>10</Android> 
   <CheckMD5>03EF8D55C5822DC9C697E6AE40876F90</CheckMD5> 
   <FileSize type="integer">1960069124</FileSize> 
