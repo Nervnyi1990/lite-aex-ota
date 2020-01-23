@@ -2,9 +2,9 @@
 <ROM>
   <RomName>HydrogenOS</RomName> 
   <VersionName>OB7_HydrogenOS_hardport1.0.7</VersionName> 
-  <VersionNumber type="integer">20200118</VersionNumber> 
-  <DirectUrl>https://cloclo14.cldmail.ru/YXfH7Mp7XYx8EeBHs3C/G/4THC/4Q4zCjhmA?key=f62984266090210aa8357f5405544b2f1154fd95&key=f62984266090210aa8357f5405544b2f1154fd95</DirectUrl> 
-  <HttpUrl>https://cloclo14.cldmail.ru/YXfH7Mp7XYx8EeBHs3C/G/4THC/4Q4zCjhmA?key=f62984266090210aa8357f5405544b2f1154fd95&key=f62984266090210aa8357f5405544b2f1154fd95</HttpUrl>
+  <VersionNumber type="integer">20200125</VersionNumber> 
+  <DirectUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/H2OTA/HydrogenOB7_19.01.20.zip</DirectUrl> 
+  <HttpUrl>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/H2OTA/HydrogenOB7_19.01.20.zip</HttpUrl>
   <Android>10</Android> 
   <CheckMD5>03EF8D55C5822DC9C697E6AE40876F90</CheckMD5> 
   <FileSize type="integer">1960069124</FileSize> 
