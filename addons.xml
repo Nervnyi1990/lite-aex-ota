@@ -23,11 +23,11 @@
       <addons>
         <addon>
             <id>3</id>
-            <name>SuperSU</name>
-            <description>Root manager</description>
-            <published-at>lite_size</published-at>
-            <size>5446811</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/3modAPP/LITEsupersu.zip</download-link>
+            <name>ImmensitY 14</name>
+            <description>Kernel</description>
+            <published-at>20200201</published-at>
+            <size>13079858</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/111/iMMENSITY-RAPHAEL-V14.0-Q-29-01-2020.zip</download-link>
         </addon>         
     </addons>
      <addons>
