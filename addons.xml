@@ -3,10 +3,10 @@
     <addons>
         <addon>
             <id>1</id>
-            <name>Magisk20.4</name>
+            <name>Magisk 20.4</name>
             <description>Root</description>
             <published-at>20200201</published-at>
-            <size>11751702</size>
+            <size>6222415</size>
             <download-link>https://cs5-2.4pda.to/18601280/magisk-release.zip?s=006329f45c2609525e35edf000000000262e01fc79c28fef57fc5d1cb156a53b</download-link>
         </addon>         
     </addons>
