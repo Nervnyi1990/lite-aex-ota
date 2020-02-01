@@ -13,11 +13,11 @@
      <addons>
         <addon>
             <id>2</id>
-            <name>Substratum</name>
-            <description>Theme manager</description>
-            <published-at>v730</published-at>
-            <size>10917194</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/2modAPP/SubstratumThemeManager.apk</download-link>
+            <name>SuperMad 15</name>
+            <description>Kernel</description>
+            <published-at>20200201</published-at>
+            <size>15815921</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/10.0/SuperMad-Kernel-15.zip</download-link>
         </addon>         
     </addons>
       <addons>
@@ -33,11 +33,21 @@
      <addons>
         <addon>
             <id>4</id>
-            <name>TWRP3.1.1.0</name>
-            <description>Custom recoveryk</description>
-            <published-at>2017-05-20</published-at>
-            <size>18982912</size>
-            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/4modAPP/TWRP_3.1.1_kenzo_7.1.img</download-link>
+            <name>GCam 7.2.010</name>
+            <description>Camera apk</description>
+            <published-at>20200201</published-at>
+            <size>76971320</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/10/GCam_7.2.010_Burial-v8_release29.01.20.apk</download-link>
+        </addon>         
+    </addons>
+     <addons>
+        <addon>
+            <id>4</id>
+            <name>ANX Camera 165</name>
+            <description>Camera apk</description>
+            <published-at>20200201</published-at>
+            <size>324759170</size>
+            <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/11/ANXCameraUnity_165.FreeLameAdouri.zip</download-link>
         </addon>         
     </addons>
 </hash>
