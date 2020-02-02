@@ -50,4 +50,14 @@
             <download-link>https://github.com/Nervnyi1990/lite-aex-ota/releases/download/11/ANXCameraUnity_165.FreeLameAdouri.zip</download-link>
         </addon>         
     </addons>
+       <addons>
+        <addon>
+            <id>6</id>
+            <name>ExpressVPN PRO</name>
+            <description>VPN</description>
+            <published-at>20200201</published-at>
+            <size>24417126</size>
+            <download-link>https://github.com/Nervnyi1990/OOS_6t_GSI/releases/download/1/EXPRESS.VPN.Unlimited.7.8.1.apk</download-link>
+        </addon>         
+    </addons>
 </hash>
